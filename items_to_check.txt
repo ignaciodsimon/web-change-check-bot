@@ -1,0 +1,11 @@
+# Example file containing a list of webpages that are tracked.
+# The data is organized in two columns. First one specifies the
+# threshold of change in percentage that is required to send
+# a notification. Second column specifies the address to be
+# checked.
+#
+# <change-threshold> <url>
+#
+# Empty lines or beginning with a "#" are ignored.
+
+1.0 http://www.example.com
